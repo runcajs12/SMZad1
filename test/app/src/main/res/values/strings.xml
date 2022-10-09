@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">witam w quizie milionerzy</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q1">Czy zdasz?</string>
+    <string name="q3">Co słychać?</string>
+    <string name="q2">Android 8 jest najnowszą wersją systemu android</string>
+    <string name="q4">Zasoby aplikacji dla systemu android definiuje się w plikach xml </string>
+    <string name="q5">To jest piąte pytanie</string>
+    <string name="incorrect_answer">nieprawidłowa odpowiedź</string>
+    <string name="correct_answer">prawidłowa odpowiedz </string>
+</resources>
