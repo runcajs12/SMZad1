@@ -4,10 +4,13 @@
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
     <string name="q1">Czy zdasz?</string>
-    <string name="q3">Co słychać?</string>
+    <string name="q3">Android 4.1 jest najnowszą wersją systemu android</string>
     <string name="q2">Android 8 jest najnowszą wersją systemu android</string>
     <string name="q4">Zasoby aplikacji dla systemu android definiuje się w plikach xml </string>
     <string name="q5">To jest piąte pytanie</string>
     <string name="incorrect_answer">nieprawidłowa odpowiedź</string>
     <string name="correct_answer">prawidłowa odpowiedz </string>
+    <string name="are_u_sure">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="show_answer">Pokaż odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlana!!!</string>
 </resources>
